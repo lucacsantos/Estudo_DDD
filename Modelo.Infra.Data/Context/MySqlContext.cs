@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Modelo.Domain.Entities;
+using Modelo.Infra.Data.Mapping;
 
 namespace Modelo.Infra.Data.Context
 {
